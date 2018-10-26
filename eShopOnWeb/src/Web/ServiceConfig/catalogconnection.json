@@ -1,0 +1,10 @@
+{
+    "connection": "Server=eshop-dbserver.database.windows.net;Integrated Security=false;Initial Catalog=eShop.Catalog;User ID=eShopIdentity;Password=SX%!M4eWC&3a",
+    "uri": "jdbc:sqlserver://eshop-dbserver.database.windows.net:1433;dbname=eShop.Catalog",
+    "username": "eShopIdentity",
+    "password": "SX%!M4eWC&3a",
+    "dbname": "eShop.Catalog",
+    "host": "eshop-dbserver.database.windows.net",
+    "port": 1433,
+    "tags": [ "sqlserver" ]
+}

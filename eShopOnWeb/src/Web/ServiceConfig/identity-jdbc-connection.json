@@ -1,0 +1,5 @@
+{
+    "pw": "SX%!M4eWC&3a",
+    "uid": "eShopIdentity",
+    "uri": "\"jdbc:sqlserver://eshop-dbserver.database.windows.net:1433;databaseName=eShop.Identity\\\""
+}

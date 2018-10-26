@@ -1,0 +1,6 @@
+---
+applications:
+- name: eshop-monolith-noinmemory
+  memory: 512M
+  stack: cflinuxfs2  
+  buildpack: dotnet_core_buildpack
